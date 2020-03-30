@@ -92,9 +92,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/UX/SampleUXScene.unity
     guid: 3b42d67a72bbc4004bf713db0e312326
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SimpleAR/SimpleARwithToggle.unity
     guid: 1bee131bf8433444c9b95e239a1e3e0a
+  - enabled: 1
+    path: Assets/Scenes/SimpleAR/SimpleARwithToggleMovie.unity
+    guid: b3b7fed1049ad474f80716bdbddc8d67
+  - enabled: 0
+    path: Assets/Scenes/SimpleAR/SimpleARwithToggleImage.unity
+    guid: 51971beaf4be68f4b82a1b4ba90004b6
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: a662c5a3307798e4cb26ce52fa82c312,
       type: 2}
